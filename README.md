@@ -9,3 +9,15 @@ Rules:
   - knight die if their life points <= 0
   - dead knights are removed from the field
 - the game is over when only one knight is left on the field
+
+
+ - Prerequisites:
+   - PHP 8.0(or higher) should be installed
+
+   How To Run:
+ - Open the terminal
+ - Clone the repository
+ - cd KnightGame
+ - php Knight.php
+
+Enjoy!
